@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, Shubham here!
 👯 I’m looking to collaborate on MERN stack projects<br>🌱 I’m currently learning Next.js<br>📫 Reach me: mehta.shubham002@gmail.com
 
 
