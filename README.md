@@ -17,11 +17,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-mehta-002&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </p>
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shubham-mehta-002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-mehta-002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-mehta-002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-mehta-002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shubham-mehta-002&icon=5&color=0)](https://visitcount.itsvg.in)
