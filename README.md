@@ -14,9 +14,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mehta-002&theme=radical&hide_border=true" alt="streak stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-mehta-002&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p>
+</p> -->
 <!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shubham-mehta-002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
