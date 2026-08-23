@@ -1,29 +1,276 @@
-# Hi 👋, Shubham here!
-👯 I’m looking to collaborate on MERN stack projects<br>🌱 I’m currently learning Next.js<br>📫 Reach me: mehta.shubham002@gmail.com
+<div align="center">
 
+# Hi 👋, I'm Shubham Mehta
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-mehta-6b8115284) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mehtashubham002) 
+### Software Engineer · Backend & Full-Stack Developer · AI/GenAI Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Building **scalable backend systems, cloud-native applications, real-time platforms, and AI-powered products.**
 
-## 📈 Contribution Graph
+<p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mehta-002&theme=radical&hide_border=true" alt="streak stats" />
+  <a href="https://github.com/shubham-mehta-002">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shubham-mehta-6b8115284/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://shubham-mehta.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-mehta-002&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
-</p> -->
-<!--
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubham-mehta-002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubham-mehta-002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-mehta-002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubham-mehta-002&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a Software Engineer focused on building **backend-heavy, scalable and production-oriented applications**.
+
+My interests sit at the intersection of:
+
+* ⚙️ Backend Engineering & Distributed Systems
+* ☁️ Cloud-Native Architecture
+* 🤖 AI / GenAI & RAG
+* 🔄 Event-Driven Systems
+* 🎥 Media Processing & Streaming
+* ⚡ Real-Time Applications
+* 🧩 Full-Stack Development
+
+Currently pursuing my **Master of Computer Applications at Thapar Institute of Engineering and Technology** while building projects around backend scalability, system design and AI-powered applications.
+
+I enjoy taking a problem from **architecture → implementation → optimization → deployment**.
+
+<!-- ---
+
+## 🚀 What I Build
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     My Engineering Interests                 │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🏗️  Backend Systems        Spring Boot · Node.js · REST     │
+│                                                              │
+│  ☁️  Cloud Architecture     AWS S3 · Lambda · Docker        │
+│                                                              │
+│  🤖  AI / GenAI             RAG · LLMs · LangChain           │
+│                                                              │
+│  🔍  Information Retrieval  Qdrant · BM25 · Embeddings       │
+│                                                              │
+│  ⚡  Real-Time Systems       Socket.IO · WebSockets · Redis  │
+│                                                              │
+│  🎬  Media Systems           FFmpeg · HLS · Video Streaming  │
+│                                                              │
+│  🌐  Full Stack              Next.js · React · TypeScript    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+--- -->
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,sql" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" />
+</p>
+
+**Spring Boot · Spring Data JPA · Hibernate · REST APIs · Node.js · Express.js · Socket.IO · Zod**
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux" />
+</p>
+
+**Next.js · React · TypeScript · TanStack Query · Tailwind CSS · Shadcn UI**
+
+### Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
+
+**MySQL · MongoDB · Redis · Supabase**
+
+### AI / GenAI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**LLMs · RAG · LangChain · LangGraph · LangSmith · Prompt Engineering · AI Chatbots · Qdrant · BM25**
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+**AWS S3 · AWS Lambda · Docker · Git · GitHub**
+
+### Core Engineering
+
+**OOP · Data Structures & Algorithms · REST APIs · Caching · Event-Driven Architecture · Distributed Systems · Microservices · System Design**
+
+---
+
+# ⭐ Featured Projects
+
+## 🎬 StreamForge — Adaptive Video Streaming Platform
+
+**Java · Spring Boot · Next.js · AWS S3 · Lambda · Redis · MySQL · FFmpeg · HLS**
+
+> An end-to-end adaptive video streaming platform designed around scalable uploads, asynchronous video processing and adaptive bitrate playback.
+
+### Highlights
+
+* 🎥 Transcodes uploaded videos into **4 HLS quality tiers from 360p to 1080p** using FFmpeg.
+* ☁️ Uses **AWS S3 presigned URLs** for direct browser-to-S3 uploads, avoiding unnecessary backend file transfer.
+* ⚡ Uses an **event-driven architecture** where S3 events trigger AWS Lambda and asynchronously initiate video processing.
+* 🔄 Decouples upload, transcoding and streaming workflows.
+* 🚀 Implements a **Redis cache-aside strategy** for frequently accessed streaming URLs.
+* 🔥 Uses Redis cache warming to improve first-play responsiveness.
+* 📺 Supports adaptive bitrate playback using HLS.
+
+[![View Project](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/shubham-mehta-002/StreamForge)
+
+---
+
+## 🧠 RAG Pipeline — Retrieval-Augmented Generation
+
+**Python · OpenAI · Qdrant · BM25 · GPT-4o Vision · Tesseract OCR**
+
+> An end-to-end document intelligence pipeline for ingesting, processing and retrieving information from heterogeneous documents.
+
+### Highlights
+
+* 📄 Supports **PDF, Markdown and plain-text documents**.
+* 🔍 Handles both text-based and scanned/image-based PDFs.
+* 👁️ Uses **GPT-4o Vision and Tesseract OCR** for document understanding.
+* 🔐 Performs MIME validation and **SHA-256 content hashing** for deduplication.
+* 🧩 Implements **parent-child chunking** for fine-grained retrieval with larger contextual windows.
+* 🔎 Combines **dense vector retrieval with Qdrant** and **lexical retrieval using BM25**.
+* 🤖 Uses retrieved context to ground LLM-generated responses.
+
+**Current focus:** improving retrieval quality, document processing and evaluation.
+
+[![View Project](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/shubham-mehta-002/RAG-pipeline)
+---
+
+## 💬 Peerly — College Social Network
+
+**Next.js · TypeScript · Express.js · Redis · Socket.IO · TanStack Query · Zod · Cloudinary**
+
+> A multi-tenant social networking platform designed specifically for college communities.
+
+### Highlights
+
+* 🏫 Supports **domain-validated college communities**.
+* 🔐 Isolates student interactions within verified institutional ecosystems.
+* ⚡ Built real-time messaging using **Socket.IO**.
+* 🚀 Achieved **sub-100ms message delivery latency during local load testing**.
+* 🔄 Uses TanStack Query for client-side state management and optimistic updates.
+* 🛡️ Implements Zod validation, rate limiting and centralized API error handling.
+* ⚡ Uses Redis for OTP and token caching.
+* ☁️ Integrates Cloudinary for optimized cloud storage and CDN delivery.
+
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham-mehta-002/Peerly-)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://peerly-six.vercel.app/)
+---
+
+# 💼 Experience
+
+### Full Stack Intern — Pisoft Informatics Pvt. Ltd.
+
+**Jan 2025 – Jun 2025**
+
+* Developed ERP modules and REST APIs using **Spring Boot**.
+* Optimized APIs handling **10K+ records** using DTO mapping and pagination.
+* Improved backend performance through **Redis caching and SQL query optimization**.
+* Worked on scalable backend architecture and database-driven applications.
+
+---
+
+# 🎓 Education
+
+### Master of Computer Applications
+
+**Thapar Institute of Engineering and Technology**
+
+`Aug 2025 – Jul 2027`
+
+**CGPA: 10.0**
+
+### Bachelor of Computer Applications
+
+**Chitkara University**
+
+`Aug 2022 – Jul 2025`
+
+**CGPA: 9.8**
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubham-mehta-002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-mehta-002&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shubham-mehta-002&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities and collaborations around:
+
+**Backend Engineering · Full-Stack Development · AI/GenAI · Distributed Systems · Cloud Architecture**
+
+<p align="center">
+
+  <a href="mailto:mehta.shubham002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shubham-mehta-6b8115284/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/shubham-mehta-002">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Build. Scale. Learn. Repeat.
+
+</div>
