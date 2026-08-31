@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shubham Mehta
 
-### Software Engineer · Backend & Full-Stack Developer · AI/GenAI Enthusiast
+### Software Engineer · Full-Stack Developer · AI/GenAI Enthusiast
 
 Building **scalable backend systems, cloud-native applications, real-time platforms, and AI-powered products.**
 
